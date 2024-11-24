@@ -126,7 +126,6 @@ def main():
 
 		generation += 1
 
-
 	print("Generation: {}\tString: {}\tFitness: {}".
 		format(generation,
 		"".join(population[0].chromosome),
